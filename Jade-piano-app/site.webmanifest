@@ -1,0 +1,13 @@
+{
+  "short_name": "Piano🐈‍⬛",
+  "name": "Piagatto",
+  "icons": [
+    {
+      "src": "./images/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "theme_color": "#000000",
+  "display": "fullscreen"
+}
